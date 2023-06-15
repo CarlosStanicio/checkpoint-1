@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h3{
+    font-size: 1.5 rem;
+    margin-bottom: 1.5 rem;
+   
+    
+}
+
+button.button_primary{
+    display: flex;
+    justify-content: end;
+    border-color: brown;
+}
+
+section {
+ margin-bottom: 1.5 rem;
+}
+
+
+.description{
+
+font-family: 'Courier New', Courier, monospace;
+}
